@@ -1,0 +1,1 @@
+INVALID_MSG = "Invalid input, please try again"
